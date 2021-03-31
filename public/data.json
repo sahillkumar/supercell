@@ -1,0 +1,49 @@
+{
+	"games": [{
+			"name": "Hay Day",
+			"desc": "FARM WITH FRIENDS AND FAMILY",
+			"image": "./images/games/hayday.jpg",
+			"link":"hayday"
+		},
+		{
+			"name": "Clash of Clans",
+			"desc": "LEAD YOUR CLAN TO VICTORY!",
+			"image": "./images/games/coc.jpg",
+			"link":"home"
+
+		},
+		{
+			"name": "Boom Beach",
+			"desc": "BUILD. PLAN. BOOM!",
+			"image": "./images/games/boombeach.jpg",
+			"link":"home"
+		},
+		{
+			"name": "Clash Royale",
+			"desc": "EPIC REAL-TIME CARD BATTLES",
+			"image": "./images/games/clashroyale.jpg",
+			"link":"home"
+		},
+		{
+			"name": "Brawl Stars",
+			"desc": "3V3 AND BATTLE ROYALE",
+			"image": "./images/games/brawlstars.jpg",
+			"link":"home"
+		}
+	],
+	"news":[
+		{
+		"name":"The Art of Supercell Out Now",
+		"img":"https://cdn.supercell.com/supercell.com/210330120958/supercell.com/files/styles/hero_image_narrow/public/supercell_retail_ev_01_news_article.jpg?itok=n9qbo-Ud&timestamp=1614765350"
+	},{
+		"name":"Supercell ID Now in Beatstar by Space Ape",
+		"img":"https://cdn.supercell.com/supercell.com/210330120958/supercell.com/files/styles/hero_image_narrow/public/sc_id_front_page.jpg?itok=wLZDaJjG&timestamp=1614258589"
+	},{
+		"name":"Ilkka's Take on Supercell in 2020",
+		"img":"https://cdn.supercell.com/supercell.com/210330120958/supercell.com/files/styles/hero_image_narrow/public/clan_wars_news_article_0.jpg?itok=wf4ltMtk&timestamp=1613393320"
+	},{
+		"name":"10 Learnings from 10 Years",
+		"img":"https://cdn.supercell.com/supercell.com/210330120958/supercell.com/files/styles/hero_image_narrow/public/supercell_10y_keyart_supercell_newsarticle_hero_1500x1130px.jpg?itok=XliiD0cP&timestamp=1589406635"
+	}
+	]
+}

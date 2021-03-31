@@ -1,0 +1,31 @@
+.games-img {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+.games-grid {
+  margin: 60px auto;
+  max-width: 80%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 60px;
+  row-gap: 50px;
+}
+
+.game-img-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 20px;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.games {
+  font-family: "Supercell";
+}

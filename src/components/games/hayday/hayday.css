@@ -1,0 +1,74 @@
+.hayday-img {
+  height: 100%;
+  width: 100%;
+}
+
+.farm-img {
+  height: 100%;
+  width: 100%;
+}
+
+.farm-article {
+  text-align: center;
+  justify-content: center;
+  margin-top: 100px;
+  margin-left: 50px;
+  width: 500px;
+}
+
+.evolving {
+  width: 80%;
+  height: 600px;
+  margin: auto;
+  padding: 80px 0px;
+}
+
+.upto-img {
+  width: 100%;
+}
+
+.playicon {
+  background-color: transparent;
+  color: white;
+  font-size: 120px;
+  font-weight: lighter;
+  border-radius: 50%;
+  border: 4px solid white;
+  padding: 25px;
+  padding-right: 15px;
+}
+
+.title {
+  display: flex;
+  height: 100px;
+}
+
+.title-name {
+  margin: auto 50px;
+  text-align: center;
+  justify-content: center;
+}
+
+.yt-icon {
+  margin: auto;
+  margin-left: 23%;
+}
+
+.yt {
+  color: #000;
+  width: 100px;
+}
+
+.vids {
+  padding: 0;
+  background-color: rgb(226, 224, 224);
+}
+
+.videos {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  max-width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 30px;
+}

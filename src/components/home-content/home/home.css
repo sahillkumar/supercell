@@ -1,0 +1,31 @@
+.main-img {
+  height: 100%;
+  width: 100%;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.news-grid {
+  margin: 60px auto;
+  max-width: 80%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 60px;
+  row-gap: 50px;
+}
+
+.archive-btn {
+  margin: auto;
+  padding: 10px 30px;
+  border-radius: 5px;
+}
+
+.see-latest-btn {
+  padding: 10px 30px;
+  border-radius: 20px;
+  position: absolute;
+  top: 75%;
+  left: 45%;
+}

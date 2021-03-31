@@ -1,0 +1,18 @@
+.newscard {
+  height: 600;
+  z-index: -1;
+}
+
+.news-image {
+  width: 100%;
+}
+
+.card-body {
+  padding: 0;
+}
+
+.card {
+  padding: 0;
+  outline: none;
+  border: none;
+}

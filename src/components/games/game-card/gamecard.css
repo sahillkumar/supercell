@@ -1,0 +1,35 @@
+.gamecard {
+  height: 600;
+  z-index: -1;
+}
+
+.gamecard-image {
+  width: 100%;
+}
+
+.card-body {
+  padding: 0;
+}
+
+.card {
+  padding: 0;
+  outline: none;
+  border: none;
+}
+
+.game-desc {
+  color: rgba(224, 31, 150, 0.932) !important;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.game-link {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.game-link:hover {
+  color: #444;
+}
