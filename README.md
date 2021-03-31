@@ -71,9 +71,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### Libraries Used :
-react-router-dom : used for routing among different components and routes in React JS
-react-icons : Icon Library for react
-react-player : Used for playing videos
-bootstrap : Used for styling components
+### react-router-dom : used for routing among different components and routes in React JS
+### react-icons : Icon Library for react
+### react-player : Used for playing videos
+### bootstrap : Used for styling components
 
 
